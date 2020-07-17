@@ -1,0 +1,2 @@
+This is a sample dataset of chronic obstructive pulmonary disease (COPD) prediction.
+Please explore this high dimensional dataset problem and learn to apply feature selection methods to extract the best features.
